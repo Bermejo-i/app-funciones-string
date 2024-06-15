@@ -5,4 +5,5 @@ a = input("ingrese el texto: ")
 mayusculaMinuscula(a)
 convertNum2str(a)
 arregloPalabras(a)
-
+OtrasFx(a)
+array2str()

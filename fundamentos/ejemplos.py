@@ -16,4 +16,9 @@ def arregloPalabras(valor):
 
 def array2str():
     nombres = ["Luis","Angel","Maria","Angelica"]
-    print()
+    print("".join(nombres))
+
+def OtrasFx(valor):
+    print(valor.replace("Python","Isra"))
+    print(valor.find("mundo"))
+    print(valor.count("Python"))
