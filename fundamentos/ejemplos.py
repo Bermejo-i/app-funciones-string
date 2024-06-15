@@ -22,3 +22,4 @@ def OtrasFx(valor):
     print(valor.replace("Python","Isra"))
     print(valor.find("mundo"))
     print(valor.count("Python"))
+    print(valor.endswith("Python"))
